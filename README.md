@@ -1,1 +1,1 @@
-RPGfacisaa is a simple Java RPG game made for educational purposes. It simulates a tournament between characters with different abilities and items. It uses OOP concepts like abstract classes and interfaces. Open in an IDE, compile, and run the Main class to play.
+
